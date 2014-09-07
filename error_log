@@ -1,0 +1,4 @@
+[23-May-2014 09:04:14 UTC] PHP Notice:  Undefined index: user in /home/khemocom/public_html/farmland/index.php on line 54
+[23-May-2014 09:04:14 UTC] PHP Notice:  Undefined index: user in /home/khemocom/public_html/farmland/index.php on line 54
+[23-May-2014 11:07:06 UTC] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for 40013 in /home/khemocom/public_html/farmland/test.php on line 17
+[23-May-2014 11:07:52 UTC] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for 1744896 in /home/khemocom/public_html/farmland/test.php on line 17
